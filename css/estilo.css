@@ -1,0 +1,69 @@
+
+.fondoheader{
+    background-color: floralwhite;
+}
+
+
+
+.LOGO{
+    width: 100px;
+}
+
+
+
+
+
+.botonmio{
+    background-color: chartreuse;
+    color: darkslategrey;
+}
+
+
+
+.botonmio:hover{
+    background-color: darkgreen;
+}
+
+.baner{
+    background-image: url("/img/Capturas.PNG") ;
+    background-size: cover;
+    width: 100%;
+    height: 500%;
+    
+}
+
+
+.rosas:hover {
+height: 250px;
+width: 250px;
+transition: height 0.5s, width 0.7s;
+}
+
+.Girasol:hover {
+    height: 250px;
+    width: 250px; 
+transition: height 0.5s, width 0.7s;
+}
+   
+.Tulipanes:hover{
+    height: 250px;
+    width: 250px;  
+transition: height 0.5s, width 0.7s;
+}
+
+.Azaleas:hover{
+    height: 250px;
+    width: 250px;  
+transition: height 0.5s, width 0.7s;
+}
+
+.Margaritas:hover{
+    height: 250px;
+    width: 250px; 
+   transition: height 0.5s, width 0.7s;  
+}
+
+body{
+    background-color: beige;
+
+}
